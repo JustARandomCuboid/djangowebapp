@@ -1,0 +1,3 @@
+Server=tcp:schedio.database.windows.net,1433;Initial Catalog=DB01;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+DRIVER={MySQL ODBC 5.3 UNICODE Driver}; Server="{host_name}"; Port=3306; Database={your_database}; Uid="{your_username}"; Pwd={your_password}; sslca={ca-cert filename}; sslverify=1; Option=3;
